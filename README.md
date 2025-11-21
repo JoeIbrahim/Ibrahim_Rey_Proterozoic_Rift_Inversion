@@ -33,7 +33,7 @@ Installation and setup guides are available at:
 | **MT600_Rift.py** | Geotherm delivers Moho Temperature of 600 °C | Narrow rift |
 | **MT800_Rift.py** | Geotherm delivers Moho Temperature of 800 °C | Wide rift |
 
-These scripts only differ in thermal structure and therefore the initial lithosphere/asthenosphere boundary depth.
+These scripts only differ in thermal structure and therefore also the initial lithosphere/asthenosphere boundary depth.
 
 ## Use these scripts to restart the experiment in either tectonic quiescence or compression
 
