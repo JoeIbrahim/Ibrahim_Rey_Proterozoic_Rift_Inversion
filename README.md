@@ -7,7 +7,7 @@
 
 ##  Overview
 
-This repository contains the Python scripts and configuration files used to run the **MT600** and **MT800** geodynamic experiments with the **Underworld 2 / UWGeodynamics** framework.  
+This repository contains the Python scripts used to run the **MT600** and **MT800** geodynamic experiments with the **Underworld 2 / UWGeodynamics** framework.  
 
 ---
 
